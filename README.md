@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/Matthieu-Solgaleo/Solgaleo-Giveaway">
+    <img src="https://raw.githubusercontent.com/Matthieu-Solgaleo/solgaleo-bot-IMG/main/Image%20PNG.png">
+  </a>
+</p>
+
 # 💫 About Me:
 Joueur Pokemon depuis 1998 sur Pokémon Rouge, je suis aujourd’hui à 32 ans toujours aussi Fan.<br><br>Ceci et ma collection personnelle des Pokemon récupérer sur les jeux depuis le début.<br><br>Beaucoup de fichier PKM surtout pour les 4 premières Générations ont  aussi était récupérer par des échange, sur le web en autre Project Pokemon.<br><br>-Liste des Générations à jour :<br><br>Génération 1 ✅<br>Génération 2✅<br>Génération 3✅<br>Génération 4✅<br>Génération 5✅<br>Génération 6✅<br>Génération 7✅<br>Génération 8✅<br>Génération 9✅<br>
 
